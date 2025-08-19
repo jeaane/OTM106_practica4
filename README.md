@@ -1,4 +1,4 @@
-                            🦊PRÁCTICA 4 (≧◡≦)
+                            🐰 PRÁCTICA 4  (≧◡≦)
 
 🐥／(･ × ･)＼
 hojas de cálculo: analisis con pandas y graficas
